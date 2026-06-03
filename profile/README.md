@@ -1,4 +1,4 @@
-# .github
+# CompActJr
 apresentação geral e regras de uso
 
 # Bem-vindo à nossa Empresa Júnior! 🚀
