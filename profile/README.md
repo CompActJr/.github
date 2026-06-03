@@ -9,7 +9,7 @@ apresentação geral e regras de uso
     
    
 <p align="center">
-     <img src="./img/img_logo.png" alt="Logo da Empresa" width="200"/>
+     <img src="../img/img_logo.png" alt="Logo da Empresa" width="200"/>
 </p>
 
 ## 🔗 Atalhos Rápidos
